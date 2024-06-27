@@ -1,6 +1,6 @@
 {
-    "name": "GitHub DLP_test",
-    "id": "github_dlp_test",
+    "name": "GitHub_test",
+    "id": "Github_test",
     "version": "1.0.0",
     "description": "GitHub DLP plugin is used to fetch files from the owner's GitHub repositories. MD5 hashes of files reported to Netskope CTE as indicators. For more information regarding generating access token, refer https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token.",
     "patch_supported": false,
